@@ -1,0 +1,9 @@
+#todo-input {
+  display: block;
+  width: 400px;
+  height: 40px;
+}
+
+#todo-btn {
+  margin-top: 20px;
+}
